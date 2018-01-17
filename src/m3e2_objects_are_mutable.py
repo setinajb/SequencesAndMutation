@@ -48,7 +48,7 @@ def main():
     print(point, point2)  # Prints the two DIFFERENT zg.Points
 
     # ------------------------------------------------------------------
-    # Shows the difference betwee the   is   operator
+    # Shows the difference between the   is   operator
     #    (two things refer to the same place in memory)
     # and the   ==   operator (two things contain the same data).
     # ------------------------------------------------------------------
@@ -73,5 +73,7 @@ def mutate_point(point):
 # If this module is running at the top level (as opposed to being
 # imported by another module), then call the 'main' function.
 # ----------------------------------------------------------------------
+
+
 if __name__ == '__main__':
     main()
