@@ -14,6 +14,7 @@ def main():
     run_test_RETURN_delete_negatives()
     run_test_MUTATE_delete_negatives()
 
+# for MUTATE delete, made the code run backwards
 
 def run_test_RETURN_delete_negatives():
     """ Tests the   RETURN_delete_negatives   function. """
