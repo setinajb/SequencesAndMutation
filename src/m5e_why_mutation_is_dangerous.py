@@ -57,7 +57,7 @@ def one_example_of_danger():
 
     # Un-comment these as you do the above exercise.
     run_test_move_randomly()
-    run_test_repeat_move_randomly()
+    # run_test_repeat_move_randomly()
 
 
 def run_test_move_randomly():
